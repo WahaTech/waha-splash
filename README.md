@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b27db15-2f3b-4827-9800-a4429813a0b6/deploy-status)](https://app.netlify.com/sites/sad-kepler-b5d74e/deploys)
+
 # gatsby-starter-eventually
 
 Gatsby.js V2 starter template based on eventually by HTML5 UP
